@@ -56,7 +56,7 @@ h5 {
   font-family: 'Quicksand', sans-serif;
 }
 
-h6 {
+.header-title h6 {
   margin: 0;
   padding: 0;
   color: #FF6600;
@@ -149,7 +149,7 @@ h1 a.logo-brand {
 /* banner */
 .banner {
   background-size: cover;
-  background-image: linear-gradient(to right, #ff6600, hsl(30deg 100% 1% / 20%)), url(../img/banner1.jpg);
+  background-image: linear-gradient(to right, #ff6600, hsl(30deg 100% 1% / 20%)), url(../images/banner1.jpg);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: initial;
   background-attachment: fixed;
@@ -380,7 +380,7 @@ h1 a.logo-brand {
 }
 
 .agent-block-image {
-  background: url(../img/banner3.jpg) no-repeat center;
+  background: url(../images/banner3.jpg) no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
@@ -824,7 +824,7 @@ footer{
 .footer__3{
   width: 15%;
 }
-form input{
+.footer_3 form input{
   padding: 14px 20px;
   font-size: 18px;
   line-height: 28px;
@@ -835,7 +835,7 @@ form input{
   background-color: white;
   border-radius: 5px;
 }
-form .btn{
+.footer_3 form .btn{
   background-color: #ff6600;
   color: white;
   padding: 12px 45px;
@@ -846,7 +846,7 @@ form .btn{
   border: 2px solid transparent;
   transition: all 0.5s;
 }
-form .btn:hover{
+.footer_3 form .btn:hover{
   background-color: #ff6600;
   opacity: 0.8;
   border: 2px solid transparent;
