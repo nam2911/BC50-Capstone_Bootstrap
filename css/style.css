@@ -654,6 +654,9 @@ form {
   text-decoration: none;
 }
 
+.dark .card-body{
+background-color: #232121;
+}
 .dark .card-body .card-title a {
   color: #c2d0da;
 }
@@ -663,9 +666,9 @@ form {
 }
 
 .card-body {
-  background-color: #232121;
   padding: 0;
 }
+
 
 .card__bottom {
   display: grid;
