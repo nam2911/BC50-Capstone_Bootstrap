@@ -667,8 +667,8 @@ background-color: #232121;
 
 .card-body {
   padding: 0;
+  background-color: #f7f7f7;
 }
-
 
 .card__bottom {
   display: grid;
