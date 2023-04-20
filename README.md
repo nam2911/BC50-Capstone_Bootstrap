@@ -44,6 +44,47 @@
           <td>Done</td>
         </tr>
         <!-- Thêm thêm dòng tương tự nếu cần -->
+        <!-- Trang -->
+        <!-- vũ -->
+         <tr>
+          <td>6</td>
+          <td>LAST POST</td>
+          <td>15/4/2023</td>
+          <td>17/4/2023</td>
+          <td>100%</td>
+          <td>Vũ</td>
+          <td>19/4/2023</td>
+          <td>22/4/2023</td>
+          <td>100%</td>
+          <td>Vũ</td>
+          <td>Done</td>
+        </tr>
+          <tr>
+          <td>7</td>
+          <td>COMMENT</td>
+          <td>15/4/2023</td>
+          <td>17/4/2023</td>
+          <td>100%</td>
+          <td>Vũ</td>
+          <td>19/4/2023</td>
+          <td>22/4/2023</td>
+          <td>100%</td>
+          <td>Vũ</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>8</td>
+          <td>FOOTER + BACK TO TOP</td>
+          <td>15/4/2023</td>
+          <td>17/4/2023</td>
+          <td>100%</td>
+          <td>Vũ</td>
+          <td>19/4/2023</td>
+          <td>22/4/2023</td>
+          <td>100%</td>
+          <td>Vũ</td>
+          <td>Done</td>
+        </tr>
       </tbody>
     </table>
   </div>
