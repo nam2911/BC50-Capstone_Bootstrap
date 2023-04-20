@@ -1,5 +1,5 @@
  <div class="container">
-    <h1>-------- BẢNG PHÂN CÔNG TEAM 6 - CAPSTONE DINER --------</h1>
+    <h1>---- BẢNG PHÂN CÔNG TEAM 6 - CAPSTONE DINER ----</h1>
     <table>
       <thead>
         <tr>
