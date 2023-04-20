@@ -69,6 +69,19 @@
           <td>Nam</td>
           <td>Done</td>
         </tr>
+        
+         <tr>
+          <td>2</td>
+          <td>THEME DARK/LIGHT</td>
+          <td>15/4/2023</td>
+          <td>17/4/2023</td>
+          <td>100%</td>
+          <td>Nam</td>
+          <td>21/4/2023</td>
+          <td>22/4/2023</td>
+          <td>100%</td>
+          <td>Nam</td>
+          <td>Done</td>
         <!-- Thêm thêm dòng tương tự nếu cần -->
         <!-- Trang -->
         <!-- vũ -->
