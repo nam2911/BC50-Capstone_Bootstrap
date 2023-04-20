@@ -1,4 +1,4 @@
- <div class="container">
+<div class="container">
     <h1>---- BẢNG PHÂN CÔNG TEAM 6 - CAPSTONE DINER ----</h1>
     <table>
       <thead>
@@ -69,7 +69,6 @@
           <td>Nam</td>
           <td>Done</td>
         </tr>
-        
          <tr>
           <td>2</td>
           <td>THEME DARK/LIGHT</td>
@@ -82,6 +81,7 @@
           <td>100%</td>
           <td>Nam</td>
           <td>Done</td>
+           </tr>
         <!-- Thêm thêm dòng tương tự nếu cần -->
         <!-- Trang -->
         <!-- vũ -->
