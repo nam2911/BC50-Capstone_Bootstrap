@@ -50,6 +50,7 @@ li {
   color: #a5a2a1;
 }
 
+
 .title h6 {
   font-family: "Pacifico", cursive;
   color: #ff6600;
@@ -725,6 +726,10 @@ form {
   padding: 10px 32px !important;
 }
 
+.dark .btn-primary {
+  color: #fff;
+}
+
 .btn-primary:hover {
   opacity: 80%;
   background-color: #FF6600;
@@ -753,6 +758,10 @@ form {
   color: #FF6600;
 }
 
+.dark .btn-outline-light {
+  color: white;
+}
+
 /* HIGHTLIGHT NUMBER  */
 
 .stats {
@@ -779,6 +788,10 @@ form {
   align-items: center;
   display: flex;
   flex-direction: column;
+}
+
+.dark .stats__item {
+  box-shadow: rgb(1 1 1 / 40%) 1px 1px 5px 0px;
 }
 
 .stats__top {
@@ -867,6 +880,22 @@ form {
 
 }
 
+.dark .circle {
+  height: 100px;
+  width: 100px;
+  line-height: 100px;
+  font-size: 30px;
+  border-radius: 50%;
+  background-color: #ffffff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #FF6600;
+  transition: all 0.5s;
+
+}
+
 .circle:hover {
   height: 120px;
   width: 120px;
@@ -932,6 +961,7 @@ form {
 .mfp-container {
   position: relative;
 }
+
 .mfp-content {
   position: unset;
 }
@@ -960,6 +990,12 @@ form {
 .dark #blog {
   background-color: #232121;
 }
+
+.dark #blog .card-body-2 a {
+  color: white;
+}
+
+.dark .card-title-2 {}
 
 .blog__posts h6 {
   font-size: 20px;
@@ -1502,6 +1538,15 @@ h6 {
   .abMore__title h6 {
     font-size: 16px !important;
     letter-spacing: 0.5px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .footer__last {
+    position: absolute;
+    bottom: 5px;
+    left: 32px;
+    right: 32px;
   }
 }
 
