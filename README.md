@@ -28,7 +28,7 @@
           <td>22/4/2023</td>
           <td>100%</td>
           <td>Nam</td>
-          <td><i class="fas fa-check"></i></td>
+          <td>Done</td>
         </tr>
         <tr>
           <td>2</td>
@@ -41,7 +41,7 @@
           <td>22/4/2023</td>
           <td>100%</td>
           <td>Nam</td>
-          <td><i class="fas fa-check"></i></td>
+          <td>Done</td>
         </tr>
         <!-- Thêm thêm dòng tương tự nếu cần -->
       </tbody>
