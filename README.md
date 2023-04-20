@@ -43,6 +43,32 @@
           <td>Nam</td>
           <td>Done</td>
         </tr>
+         <tr>
+          <td>1</td>
+          <td>ABOUT US MORE</td>
+          <td>9/4/2023</td>
+          <td>11/4/2023</td>
+          <td>100%</td>
+          <td>Nam</td>
+          <td>21/4/2023</td>
+          <td>22/4/2023</td>
+          <td>100%</td>
+          <td>Nam</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>WHAT NEWS</td>
+          <td>12/4/2023</td>
+          <td>14/4/2023</td>
+          <td>100%</td>
+          <td>Nam</td>
+          <td>21/4/2023</td>
+          <td>22/4/2023</td>
+          <td>100%</td>
+          <td>Nam</td>
+          <td>Done</td>
+        </tr>
         <!-- Thêm thêm dòng tương tự nếu cần -->
         <!-- Trang -->
         <!-- vũ -->
