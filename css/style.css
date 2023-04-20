@@ -995,8 +995,6 @@ form {
   color: white;
 }
 
-.dark .card-title-2 {}
-
 .blog__posts h6 {
   font-size: 20px;
   font-weight: 400;
@@ -1550,11 +1548,11 @@ h6 {
   }
 }
 
-.mfp-zoom-in {
+/* .mfp-zoom-in {
   /* start state */
   /* animate in */
   /* animate out */
-}
+
 
 .mfp-zoom-in .mfp-with-anim {
   opacity: 0;
