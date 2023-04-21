@@ -771,7 +771,7 @@ form {
 .stats {
   overflow: unset;
   margin-top: -70px;
-  z-index: 99999;
+  z-index: 10;
   position: relative;
 }
 
