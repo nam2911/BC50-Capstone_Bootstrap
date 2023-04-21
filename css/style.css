@@ -762,6 +762,10 @@ form {
   color: white;
 }
 
+.dark .btn-outline-light:hover {
+  color: #FF6600;
+}
+
 /* HIGHTLIGHT NUMBER  */
 
 .stats {
